@@ -55,6 +55,3 @@ Contact: `ankurkanaujia35@gmail.com`
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**. Feel free to use, adapt, and share it.
